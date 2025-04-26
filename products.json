@@ -1,0 +1,222 @@
+[
+    {
+        "title": "Deluxe Garden Series",
+        "id_and_category": {
+            "id": "0",
+            "category": "Garden"
+        },
+        "rating": "1.1",
+        "cost": "$360.51",
+        "details": "A premium, compact garden product. The Deluxe Garden Series is designed for maximum performance and user satisfaction.",
+        "last_updated": "5 days ago"
+    },
+    {
+        "title": "Compact Electronics Package",
+        "id_and_category": {
+            "id": "1",
+            "category": "Electronics"
+        },
+        "rating": "3.0",
+        "cost": "$864.34",
+        "details": "A affordable, professional electronics product. The Compact Electronics Package is designed for maximum performance and user satisfaction.",
+        "last_updated": "21 days ago"
+    },
+    {
+        "title": "Innovative Home & Kitchen Tool",
+        "id_and_category": {
+            "id": "2",
+            "category": "Home & Kitchen"
+        },
+        "rating": "1.7",
+        "cost": "$586.83",
+        "details": "A powerful, premium home & kitchen product. The Innovative Home & Kitchen Tool is designed for maximum performance and user satisfaction.",
+        "last_updated": "4 days ago"
+    },
+    {
+        "title": "Compact Beauty Ultra",
+        "id_and_category": {
+            "id": "3",
+            "category": "Beauty"
+        },
+        "rating": "2.0",
+        "cost": "$149.72",
+        "details": "A lightweight, powerful beauty product. The Compact Beauty Ultra is designed for maximum performance and user satisfaction.",
+        "last_updated": "15 days ago"
+    },
+    {
+        "title": "Compact Toys Package",
+        "id_and_category": {
+            "id": "4",
+            "category": "Toys"
+        },
+        "rating": "4.2",
+        "cost": "$903.68",
+        "details": "A compact, affordable toys product. The Compact Toys Package is designed for maximum performance and user satisfaction.",
+        "last_updated": "13 days ago"
+    },
+    {
+        "title": "Essential Home & Kitchen Solution",
+        "id_and_category": {
+            "id": "5",
+            "category": "Home & Kitchen"
+        },
+        "rating": "2.6",
+        "cost": "$181.26",
+        "details": "A compact, affordable home & kitchen product. The Essential Home & Kitchen Solution is designed for maximum performance and user satisfaction.",
+        "last_updated": "28 days ago"
+    },
+    {
+        "title": "Innovative Electronics Device",
+        "id_and_category": {
+            "id": "6",
+            "category": "Electronics"
+        },
+        "rating": "1.9",
+        "cost": "$759.00",
+        "details": "A high-quality, lightweight electronics product. The Innovative Electronics Device is designed for maximum performance and user satisfaction.",
+        "last_updated": "9 days ago"
+    },
+    {
+        "title": "Budget Home & Kitchen Set",
+        "id_and_category": {
+            "id": "7",
+            "category": "Home & Kitchen"
+        },
+        "rating": "1.1",
+        "cost": "$39.72",
+        "details": "A efficient, portable home & kitchen product. The Budget Home & Kitchen Set is designed for maximum performance and user satisfaction.",
+        "last_updated": "29 days ago"
+    },
+    {
+        "title": "Ultimate Sports System",
+        "id_and_category": {
+            "id": "8",
+            "category": "Sports"
+        },
+        "rating": "1.9",
+        "cost": "$763.41",
+        "details": "A stylish, versatile sports product. The Ultimate Sports System is designed for maximum performance and user satisfaction.",
+        "last_updated": "22 days ago"
+    },
+    {
+        "title": "Advanced Home & Kitchen Solution",
+        "id_and_category": {
+            "id": "9",
+            "category": "Home & Kitchen"
+        },
+        "rating": "2.1",
+        "cost": "$352.42",
+        "details": "A durable, powerful home & kitchen product. The Advanced Home & Kitchen Solution is designed for maximum performance and user satisfaction.",
+        "last_updated": "25 days ago"
+    },
+    {
+        "title": "Luxury Sports Set",
+        "id_and_category": {
+            "id": "10",
+            "category": "Sports"
+        },
+        "rating": "3.5",
+        "cost": "$744.32",
+        "details": "A versatile, high-quality sports product. The Luxury Sports Set is designed for maximum performance and user satisfaction.",
+        "last_updated": "23 days ago"
+    },
+    {
+        "title": "Innovative Books Solution",
+        "id_and_category": {
+            "id": "11",
+            "category": "Books"
+        },
+        "rating": "2.9",
+        "cost": "$215.24",
+        "details": "A ergonomic, versatile books product. The Innovative Books Solution is designed for maximum performance and user satisfaction.",
+        "last_updated": "5 days ago"
+    },
+    {
+        "title": "Deluxe Toys Package",
+        "id_and_category": {
+            "id": "12",
+            "category": "Toys"
+        },
+        "rating": "2.2",
+        "cost": "$264.80",
+        "details": "A stylish, portable toys product. The Deluxe Toys Package is designed for maximum performance and user satisfaction.",
+        "last_updated": "10 days ago"
+    },
+    {
+        "title": "Modern Toys Pro",
+        "id_and_category": {
+            "id": "13",
+            "category": "Toys"
+        },
+        "rating": "2.4",
+        "cost": "$782.38",
+        "details": "A high-quality, versatile toys product. The Modern Toys Pro is designed for maximum performance and user satisfaction.",
+        "last_updated": "2 days ago"
+    },
+    {
+        "title": "Ultimate Health Kit",
+        "id_and_category": {
+            "id": "14",
+            "category": "Health"
+        },
+        "rating": "1.2",
+        "cost": "$747.90",
+        "details": "A eco-friendly, eco-friendly health product. The Ultimate Health Kit is designed for maximum performance and user satisfaction.",
+        "last_updated": "15 days ago"
+    },
+    {
+        "title": "Smart Clothing Plus",
+        "id_and_category": {
+            "id": "15",
+            "category": "Clothing"
+        },
+        "rating": "3.7",
+        "cost": "$642.25",
+        "details": "A eco-friendly, ergonomic clothing product. The Smart Clothing Plus is designed for maximum performance and user satisfaction.",
+        "last_updated": "13 days ago"
+    },
+    {
+        "title": "Innovative Home & Kitchen Device",
+        "id_and_category": {
+            "id": "16",
+            "category": "Home & Kitchen"
+        },
+        "rating": "3.1",
+        "cost": "$485.81",
+        "details": "A durable, durable home & kitchen product. The Innovative Home & Kitchen Device is designed for maximum performance and user satisfaction.",
+        "last_updated": "17 days ago"
+    },
+    {
+        "title": "Budget Sports Max",
+        "id_and_category": {
+            "id": "17",
+            "category": "Sports"
+        },
+        "rating": "5.0",
+        "cost": "$820.31",
+        "details": "A affordable, lightweight sports product. The Budget Sports Max is designed for maximum performance and user satisfaction.",
+        "last_updated": "12 days ago"
+    },
+    {
+        "title": "Deluxe Sports Max",
+        "id_and_category": {
+            "id": "18",
+            "category": "Sports"
+        },
+        "rating": "1.9",
+        "cost": "$917.34",
+        "details": "A portable, affordable sports product. The Deluxe Sports Max is designed for maximum performance and user satisfaction.",
+        "last_updated": "30 days ago"
+    },
+    {
+        "title": "Smart Beauty Device",
+        "id_and_category": {
+            "id": "19",
+            "category": "Beauty"
+        },
+        "rating": "2.2",
+        "cost": "$94.07",
+        "details": "A innovative, durable beauty product. The Smart Beauty Device is designed for maximum performance and user satisfaction.",
+        "last_updated": "14 days ago"
+    }
+]
